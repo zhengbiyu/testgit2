@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testdata>
+	<topic name=" 未加圈发话题测试数据">
+		<username>200026929</username>
+		<password>a123456</password>
+		<nikename>小王子</nikename>
+		<qqid>102</qqid>
+	    <qqname>奥拉星粉丝圈</qqname>
+		<category>随便聊聊啊</category>
+		<title>我是新话题</title>
+		<view>为什么要关于后来呢，其实是关于现在的</view>
+	</topic>
+</testdata>

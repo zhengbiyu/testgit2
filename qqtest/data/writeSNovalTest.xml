@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testdata>
+	<snoval name=" 小说投稿测试数据 ">
+	    <moreurl>xiaoshuo/tougao.jsp</moreurl>
+	    
+		<username>200026929</username>
+		<password>a123456</password>
+		<nikename>小王子</nikename>
+		
+		<novalName>比尔王国</novalName>
+		<authorName>牙牙</authorName>
+		<length>.//*[@id='pianfuSelect']/div[2]/label[1]</length>
+		<category>青春校园</category>
+		<coverImgSrc>http://img2.a0bi.com/upload/ttq/20151119/1447901266066_middle.jpg</coverImgSrc>
+		<novelBrief>滴答滴答下雨啦</novelBrief>
+		<bindTops>.//*[@id='bindType']/div[1]/div[1]/label[1]</bindTops>
+		<markText>呀呀</markText>
+	</snoval>
+</testdata>
