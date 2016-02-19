@@ -14,7 +14,7 @@ def testlist():
     #测试用例存放路径
     casedir="C:\\Users\\zhengbiyu\\workspace\\qq\\src\\qqtest\\test_case"
     #drisover方法定义，返回的是套件集合
-    discover=unittest.defaultTestLoader.discover(casedir, pattern="test_login.py", top_level_dir=None)
+    discover=unittest.defaultTestLoader.discover(casedir, pattern="test_registe.py", top_level_dir=None)
     #drisover是套件集合，需要双重循环取到用例名字
     for test_suit in discover:
         for case_name in test_suit:
