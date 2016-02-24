@@ -12,7 +12,7 @@ def testlist():
     #定义一个单元测试容器
     testunit=unittest.TestSuite()
     #测试用例存放路径
-    casedir="C:\\Users\\zhengbiyu\\workspace\\qq\\src\\qqtest\\test_case"
+    casedir="C:\\Program Files (x86)\\Apache Software Foundation\\Tomcat 7.0\\webapps\\Jekins\\jobs\\gittest1\\workspace\\qqtest\\test_case"
     #drisover方法定义，返回的是套件集合
     discover=unittest.defaultTestLoader.discover(casedir, pattern="test_login.py", top_level_dir=None)
     #drisover是套件集合，需要双重循环取到用例名字
