@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/qqtest/chardettest.py=utf-8
+encoding//src/qqtest/test_case.py=utf-8
+encoding//src/qqtest/test_case/atest_publishTopic1.py=utf-8
+encoding//src/qqtest/test_case/atest_publishTopic2.py=utf-8
+encoding//src/qqtest/test_case/public/commonFunctions.py=utf-8
+encoding//src/qqtest/test_case/public/dataOperations.py=utf-8
+encoding//src/qqtest/test_case/test_joinq.py=utf-8
+encoding//src/qqtest/test_case/test_login.py=utf-8
+encoding//src/qqtest/test_case/test_qqSearch.py=utf-8
+encoding//src/qqtest/test_case/test_registe.py=utf-8
+encoding//src/qqtest/test_case/test_writeLNoval.py=utf-8
+encoding//src/qqtest/test_case/test_writeSNoval.py=utf-8

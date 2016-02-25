@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testdata>
+	<search name=" 圈圈搜索的测试数据 ">
+		<mykey>田田圈</mykey>
+		<defautkey>的西欧但是</defautkey>
+		<spacekey>     </spacekey>
+		<errortips>输入搜索关键字</errortips>
+	</search>
+</testdata>

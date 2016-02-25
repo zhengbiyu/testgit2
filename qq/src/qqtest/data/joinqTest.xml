@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testdata>
+	<joinq name=" 在全部圈页面加入圈圈的测试数据 ">
+		<username>200026929</username>
+		<password>a123456</password>
+		<nikename>小王子</nikename>
+		<tab>游戏族</tab>
+		<qqname>奥拉星粉丝圈</qqname>
+		<qqname1>"奥拉星粉丝圈"</qqname1>
+		<qqid>102</qqid>
+		<url>all.html</url>
+	</joinq>
+</testdata>
